@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KeenM1nd
-- 👀 I’m interested in develop android apps
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Cisco
-- 📫 How to reach me @shiftych in telegram
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML,CSS,JS
+- 📫 How to reach me @aredae in telegram
 
 <!---
 KeenM1nd/KeenM1nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
